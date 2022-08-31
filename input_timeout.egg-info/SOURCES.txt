@@ -1,0 +1,8 @@
+README.md
+setup.py
+input_timeout/__init__.py
+input_timeout.egg-info/PKG-INFO
+input_timeout.egg-info/SOURCES.txt
+input_timeout.egg-info/dependency_links.txt
+input_timeout.egg-info/requires.txt
+input_timeout.egg-info/top_level.txt
